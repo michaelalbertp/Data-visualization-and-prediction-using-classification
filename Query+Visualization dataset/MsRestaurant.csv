@@ -1,0 +1,21 @@
+RestaurantId,RestaurantName,RestaurantPhone,RestaurantAddress,IsPartner
+1,Blogtags,8014637698,538 Stuart Court,FALSE
+2,Centidel,1233218403,03 American Point,TRUE
+3,Brightdog,3501218490,0 Mccormick Alley,TRUE
+4,Dabshots,2133364496,226 Bartelt Point,FALSE
+5,Aimbu,8417107843,7 Nevada Hill,TRUE
+6,Topiclounge,9373507812,69 Linden Circle,FALSE
+7,Flashspan,7668747217,659 Shoshone Point,FALSE
+8,Ailane,8551683375,3 Marquette Parkway,TRUE
+9,Rhynoodle,3251371756,23 Barby Lane,FALSE
+10,Divavu,7256449555,2479 Roxbury Street,FALSE
+11,Topicstorm,3285490402,1304 Randy Lane,TRUE
+12,Shufflebeat,6028097722,4492 Stoughton Pass,TRUE
+13,Kayveo,7616407615,57918 Canary Avenue,FALSE
+14,Fliptune,1577916056,553 Independence Drive,TRUE
+15,Trudoo,3816970892,1116 Ramsey Trail,FALSE
+16,Tagchat,2917979084,7179 Vidon Alley,TRUE
+17,Brightbean,8389202463,0 Village Green Alley,TRUE
+18,Realmix,9738466510,6 Saint Paul Alley,FALSE
+19,Centimia,2108623675,3 Sugar Pass,TRUE
+20,Trattoria Trussardi,8126646716,57th Village Street,FALSE
